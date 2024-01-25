@@ -1,11 +1,11 @@
 ### Ayoo, I'm Christian ✌🏽
 
-I'm a inspiring software developer based in Charlotte, NC and I'm passionate about crafting digital experiences. 
+I'm a inspiring software developer based out of Charlotte, NC and I'm passionate about crafting digital experiences. 
 
 - Checkout out my [portfolio](https://christiandezha-portfolio.netlify.app/) to learn more about me!
 - 👀 My previous profession was as a Controls Engineer for a company based in Holly Springs, NC.
 - I also enjoy my time off-screen and spend time trail running 🏃🏽‍♂️ and doing functional fitness 🏋🏽‍♂️! You can also catch me munching 🍕 and exploring new eats !!
-- 🌱 I’m currently learning Full-Stack development!
+- 🌱 I’m currently learning Full-Stack development, looking to pursue a job in software development and am open to relocation!
 - 💞️ I’m looking to collaborate on anything and everything!
 
 
