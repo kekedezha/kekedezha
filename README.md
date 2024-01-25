@@ -3,7 +3,7 @@
 I'm a inspiring software developer based in Charlotte, NC and I'm passionate about crafting digital experiences. 
 
 - Checkout out my [portfolio](https://kekedezha.github.io/myPortfolio-dezha/) to learn more about me!
-- 👀 My previous profession was a Controls Engineer for a company based in Holly Springs, NC.
+- 👀 My previous profession was as a Controls Engineer for a company based in Holly Springs, NC.
 - 🏃🏽‍♂️🏋🏽‍♂️🍕 I also enjoy my time off-screen and spend time trail running and doing functional fitness! You can also catch me munching and exploring new eats!!
 - 🌱 I’m currently learning Full-Stack development!
 - 💞️ I’m looking to collaborate on anything and everything!
@@ -29,8 +29,8 @@ I'm a inspiring software developer based in Charlotte, NC and I'm passionate abo
 For a quick response, send me a message through the following: 
 
 - Email - [dezhac6@gmail.com](dezhac6@gmail.com)
-- Linkedin - [Christian Dezha](www.linkedin.com/in/christian-dezha-bolteada-1386a2135)
-- Instagram - [christiandezha](www.instagram.com/christiandezha)
+- Linkedin - [Christian Dezha](https://www.linkedin.com/in/christian-dezha-bolteada-1386a2135)
+- Instagram - [christiandezha](https://www.instagram.com/christiandezha)
 <!---
 kekedezha/kekedezha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
