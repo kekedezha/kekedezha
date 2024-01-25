@@ -1,4 +1,4 @@
-### Hey, I'm Christian ✌🏽
+### Ayoo, I'm Christian ✌🏽
 
 I'm a inspiring software developer based in Charlotte, NC and I'm passionate about crafting digital experiences. 
 
@@ -28,7 +28,7 @@ I'm a inspiring software developer based in Charlotte, NC and I'm passionate abo
 ## 📬 Contact
 For a quick response, send me a message through the following: 
 
-- Email - [dezhac6@gmail.com](dezhac6@gmail.com)
+- Email - [dezhac6@gmail.com](mailto:dezhac6@gmail.com)
 - Linkedin - [Christian Dezha](https://www.linkedin.com/in/christian-dezha-bolteada-1386a2135)
 - Instagram - [christiandezha](https://www.instagram.com/christiandezha)
 <!---
