@@ -23,7 +23,7 @@ I'm a inspiring software developer based out of Charlotte, NC and I'm passionate
 
 ## ✨ Fun Facts
 - As a kid, I wanted to be a firefighter
-- One Piece is my first anime I have watched and am currently watching (episode: #495)
+- One Piece is my first anime I have watched and am currently watching (episode: #499)
 - My first Ultra Marathon (60K, ~9k ft of elevation gain) came after three 10Ks and two months of training
    
 ## 📬 Contact
