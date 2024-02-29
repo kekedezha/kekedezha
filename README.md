@@ -1,4 +1,4 @@
-### Ayoo, I'm Christian ✌🏽
+### Ayoo, Christian here ✌🏽
 
 I'm a inspiring software developer based out of Charlotte, NC and I'm passionate about crafting digital experiences. 
 
@@ -14,7 +14,7 @@ I'm a inspiring software developer based out of Charlotte, NC and I'm passionate
  
 **Version Control:** `Git`
 
-**Backend Development:** `Python` `Django` `PostgreSQL` 
+**Backend Development:** `Node.js` `Express.js` `Python` `Django` `PostgreSQL` 
 
 **Testing:** `Jest` `Mocha` `Insomnia`
 
