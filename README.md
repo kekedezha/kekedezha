@@ -10,11 +10,11 @@ I'm a inspiring software developer based out of Charlotte, NC and I'm passionate
 
 
 ## 📦 Toolbox
-**Frontend Development:** `React` `JavaScript` `HTML` `CSS` `Firebase` `Redux`
+**Frontend Development:** `React` `JavaScript` `HTML` `CSS` `Redux`
  
 **Version Control:** `Git`
 
-**Backend Development:** `Node.js` `Express.js` `Python` `Django` `PostgreSQL` 
+**Backend Development:** `Node.js` `Express.js` `Python` `Django` `PostgreSQL` `Firebase`
 
 **Testing:** `Jest` `Mocha` `Insomnia` `Postman`
 
