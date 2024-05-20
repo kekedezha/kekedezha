@@ -10,7 +10,7 @@ I'm a inspiring software developer based out of Charlotte, NC and I'm passionate
 
 
 ## 📦 Toolbox
-**Frontend Development:** `React` `JavaScript` `HTML` `CSS` `Redux`
+**Frontend Development:** `React` `JavaScript` `HTML` `CSS` `Redux` `TypeScript`
  
 **Version Control:** `Git`
 
