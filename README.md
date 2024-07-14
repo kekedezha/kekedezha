@@ -1,6 +1,6 @@
 ### Ayoo, Christian here ✌🏽
 
-I'm a inspiring software developer based out of Charlotte, NC and I'm passionate about crafting digital experiences. 
+I'm a aspiring software developer based out of Charlotte, NC and I'm passionate about crafting digital experiences. 
 
 - Checkout out my [portfolio](https://www.christiandezha.com/) to learn more about me!
 - 👀 My previous profession was as a Controls Engineer for a company based in Holly Springs, NC.
