@@ -16,14 +16,14 @@ I'm a aspiring software developer based out of Charlotte, NC and I'm passionate 
 
 **Backend Development:** `Node.js` `Express.js` `Python` `Django` `PostgreSQL` `Firebase`
 
-**Testing:** `Jest` `Mocha` `Chai` `Insomnia` `Postman` `TDD`
+**Testing:** `Jest` `Mocha` `Chai` `Insomnia` `Postman` `TDD` `Vitest`
 
 **Others:** `Java` `C++` `C#` `Agile` `Trello` `Figma` `AI Integration/OpenAI GPT 3.5 API`
 
 
 ## ✨ Fun Facts
 - As a kid, I wanted to be a firefighter
-- One Piece is my first anime I have watched and am currently watching (episode: #985)
+- One Piece is my first anime I have watched and am currently watching (episode: #1008)
 - My first Ultra Marathon (60K, ~9k ft of elevation gain) came after three 10Ks and two months of training
    
 ## 📬 Contact
