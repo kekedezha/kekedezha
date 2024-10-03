@@ -25,6 +25,7 @@ I'm a aspiring software developer based out of Charlotte, NC and I'm passionate 
 - As a kid, I wanted to be a firefighter
 - One Piece is my first anime I have watched and am currently watching (episode: #1057)
 - My first Ultra Marathon (60K, ~9k ft of elevation gain) came after three 10Ks and two months of training
+- I am currently reading 'The Three-Body Problem' by Cixin Liu
    
 ## 📬 Contact
 For a quick response, send me a message through the following: 
