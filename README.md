@@ -33,6 +33,8 @@ For a quick response, send me a message through the following:
 - Email - [dezhac6@gmail.com](mailto:dezhac6@gmail.com)
 - Linkedin - [Christian Dezha](https://www.linkedin.com/in/christian-dezha-bolteada-1386a2135)
 - Instagram - [christiandezha](https://www.instagram.com/christiandezha)
+
+## GO OUT AND VOTE!! 🇺🇸
 <!---
 kekedezha/kekedezha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
