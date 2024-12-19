@@ -25,7 +25,7 @@ I'm a aspiring software developer based out of Charlotte, NC and I'm passionate 
 - As a kid, I wanted to be a firefighter
 - One Piece is my first anime I have watched and am currently watching (episode: #1106)
 - My first Ultra Marathon (60K, ~9k ft of elevation gain) came after three 10Ks and two months of training
-- I am currently reading 'Mythology: Timeless Tales of Gods and Heros' by Edith Hamilton
+- I am currently reading 'Greek Myths: Heros and Heroines' by Jean Menzies
    
 ## 📬 Contact
 For a quick response, send me a message through the following: 
