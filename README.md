@@ -4,7 +4,7 @@ I'm a aspiring software developer based out of Charlotte, NC and I'm passionate 
 
 - Checkout out my [portfolio](https://www.christiandezha.com/) to learn more about me!
 - 👀 My current profession is as a Controls Engineer doing contract work for various companies.
-- I also enjoy my time off-screen and spend time trail running 🏃🏽‍♂️ and doing functional fitness 🏋🏽‍♂️! You can also catch me munching 🍕 and exploring new eats !!
+- I enjoy my time off-screen and spend time trail running 🏃🏽‍♂️ and doing functional fitness 🏋🏽‍♂️! You can also catch me munching 🍕 and exploring new eats !!
 - 🌱 I’m currently learning Full-Stack development, looking to pursue a job in software development and am open to relocation!
 - 💞️ I’m looking to collaborate on anything and everything!
 
@@ -23,7 +23,7 @@ I'm a aspiring software developer based out of Charlotte, NC and I'm passionate 
 
 ## ✨ Fun Facts
 - As a kid, I wanted to be a firefighter
-- One Piece is my first anime I have watched and am currently watching (episode: #1106)
+- One Piece is my first anime I have watched and am currently watching (episode: #1108)
 - My first Ultra Marathon (60K, ~9k ft of elevation gain) came after three 10Ks and two months of training
 - I am currently reading 'Greek Myths: Heros and Heroines' by Jean Menzies
    
