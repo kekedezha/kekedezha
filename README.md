@@ -26,7 +26,7 @@ I'm a aspiring software developer based out of Charlotte, NC and I'm passionate 
 - One Piece is my first anime I have watched (current episode: #1115)
 - My first Ultra Marathon (60K, ~9k ft of elevation gain) came after three 10Ks and two months of training
 - I am currently reading 'Greek Myths: Heros and Heroines' by Jean Menzies
-- I am currently watching Naruto (current episode: #2)
+- I am currently watching Naruto (current episode: #6)
    
 ## 📬 Contact
 For a quick response, send me a message through the following: 
