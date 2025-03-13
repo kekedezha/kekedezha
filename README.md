@@ -16,9 +16,9 @@ I'm a aspiring software developer based out of Charlotte, NC and I'm passionate 
 
 **Backend Development:** `Node.js` `Express.js` `Python` `Django` `PostgreSQL` `Firebase` `Swagger/OpenAPI`
 
-**Testing:** `Jest` `Mocha` `Chai` `Insomnia` `Postman` `TDD` `Vitest`
+**Testing:** `Jest` `Mocha` `Chai` `Insomnia` `TDD` `Vitest`
 
-**Others:** `Java` `C++` `C#` `Agile` `Trello` `Figma` `AI Integration/OpenAI GPT 3.5 API`
+**Others:** `Java` `C++` `C#` `Trello` `AI Integration` `OOP` `Database design` `RESTful APIs` `Postman`
 
 
 ## ✨ Fun Facts
