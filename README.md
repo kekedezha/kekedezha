@@ -14,7 +14,7 @@ I'm a aspiring software developer based out of Charlotte, NC and I'm passionate 
  
 **Version Control:** `Git`
 
-**Backend Development:** `Node.js` `Express.js` `Python` `Django` `PostgreSQL` `Firebase` `Swagger/OpenAPI`
+**Backend Development:** `Node.js` `Express.js` `Python` `Django` `PostgreSQL` `Firebase` `Supabase` `Swagger/OpenAPI`
 
 **Testing:** `Jest` `Mocha` `Chai` `Insomnia` `TDD` `Vitest`
 
