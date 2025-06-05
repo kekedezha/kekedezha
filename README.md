@@ -26,7 +26,7 @@ I'm a aspiring software developer based out of Charlotte, NC and I'm passionate 
 - One Piece is my first anime I have watched and I am finally all caught up! (current episode: #1130)
 - My first Ultra Marathon (60K, ~9k ft of elevation gain) came after three 10Ks and two months of training
 - I am currently reading 'Born To Run' by Christopher McDougall
-- I am currently watching Naruto (current episode: #88)
+- I am currently watching Naruto (current episode: #89)
    
 ## 📬 Contact
 For a quick response, send me a message through the following: 
