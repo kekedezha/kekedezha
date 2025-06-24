@@ -25,7 +25,7 @@ I'm a aspiring software developer based out of Charlotte, NC and I'm passionate 
 - As a kid, I wanted to be a firefighter
 - One Piece is my first anime I have watched and I am finally all caught up! (current episode: #1130)
 - My first Ultra Marathon (60K, ~9k ft of elevation gain) came after three 10Ks and two months of training
-- I am currently reading 'Born To Run' by Christopher McDougall
+- I am currently reading 'No Country For Old Men' by Cormac McCarthy
 - I am currently watching Naruto (current episode: #89)
    
 ## 📬 Contact
