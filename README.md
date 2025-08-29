@@ -4,7 +4,7 @@ I'm a aspiring software developer based out of Charlotte, NC and I'm passionate 
 
 - Checkout out my [portfolio](https://www.christiandezha.com/) to learn more about me!
 - 👀 My current profession is as a Controls Engineer doing contract work for various companies.
-- I enjoy my time off-screen and spend time trail running 🏃🏽‍♂️ and doing functional fitness 🏋🏽‍♂️! You can also catch me munching 🍕 and exploring new eats !!
+- I enjoy my time off-screen and spend time trail running 🏃🏽‍♂️ and doing functional fitness 🏋🏽‍♂️! You can also catch me exploring new eats 🍕 and coffee shops ☕️ !!
 - 🌱 I’m currently learning Full-Stack development, looking to pursue a job in software development and am open to relocation!
 - 💞️ I’m looking to collaborate on anything and everything!
 
