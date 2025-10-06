@@ -26,7 +26,7 @@ I'm a aspiring software developer based out of Charlotte, NC and I'm passionate 
 - One Piece is my first anime I have watched and I am finally all caught up! (current episode: #1145)
 - My first Ultra Marathon (60K, ~9k ft of elevation gain) came after three 10Ks and two months of training. Check out my latest run/activity on [Strava](https://www.strava.com/athletes/kekedezha) or check out the Extra section of my [portfolio](https://www.christiandezha.com/)!
 - I am currently reading 'No Country For Old Men' by Cormac McCarthy
-- I am currently watching Naruto (current episode: #101)
+- I am currently watching Naruto (current episode: #103)
    
 ## 📬 Contact
 For a quick response, send me a message through the following: 
